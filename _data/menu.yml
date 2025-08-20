@@ -3,7 +3,10 @@
 
 entries:
   - title: warum, was, wie, was hab ich davon -> <br> <img src="assets\img\onepager.png" alt="One Pager">
-  - title: mehr erfahren -> <a href="mailto:brian@junker-latocha.com?subject=Interesse%20am%20KI-Kolloquium">brian@junker-latocha.com</a>, <a href="tel:+4917644420427">+49 176 444 20427</a>
+  - title: mehr erfahren ->
+    entries:
+      - title: <a href="mailto:brian@junker-latocha.com?subject=Interesse%20am%20KI-Kolloquium">brian@junker-latocha.com</a>
+      - title: <a href="tel:+4917644420427">+49 176 444 20427</a>
   - title: impressum ->
     entries:
       - title: brian junker-latocha
