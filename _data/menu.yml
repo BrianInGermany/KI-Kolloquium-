@@ -2,7 +2,7 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: warum, was, wie, was hab ich davon -> <br> <img src="assets\img\onepager.png" alt="One Pager">
+  - title: warum, was, wie, was hab ich davon -> <br> <img src="assets\onepager.png" alt="One Pager">
   - title: mehr erfahren ->
     entries:
       - title: <a href="mailto:brian@junker-latocha.com?subject=Interesse%20am%20KI-Kolloquium">brian@junker-latocha.com</a>
